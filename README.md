@@ -3,4 +3,4 @@
 Ejercicio del equipo *JLO*
 
 
-![Diagrama_de_flujo](img/diagrama.jpg)
+![Diagrama_de_flujo](img/diagrama-flujo.jpg)
